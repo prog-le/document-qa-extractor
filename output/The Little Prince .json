@@ -1,0 +1,688 @@
+[
+  {
+    "file_path": "./input/The Little Prince (Illustrated) (Antoine de Saint-Exupery) (Z-Library).pdf",
+    "qa_pairs": [
+      {
+        "question": "《小王子》的作者是谁？",
+        "answer": "安托万·德·圣-埃克苏佩里"
+      },
+      {
+        "question": "这本书的献词是献给谁的？",
+        "answer": "献给里昂·沃斯（Leon Werth）"
+      },
+      {
+        "question": "作者最初想成为什么职业？为什么放弃了？",
+        "answer": "作者最初想成为画家。他放弃了是因为大人们无法理解他的画作（蟒蛇吞食大象的图画），并建议他学习地理、历史、算术和语法。"
+      },
+      {
+        "question": "叙述者最终选择了什么职业？",
+        "answer": "叙述者最终选择了飞行员职业。"
+      },
+      {
+        "question": "叙述者用哪幅画来测试一个人是否有真正的理解力？",
+        "answer": "叙述者用他的第一幅画（看起来像帽子的蟒蛇吞食大象的图画）来测试一个人是否有真正的理解力。"
+      },
+      {
+        "question": "当大人们看到叙述者的第一幅画时，他们认为那是什么？",
+        "answer": "大人们认为那是一顶帽子。"
+      },
+      {
+        "question": "作者在献词中提到的三个理由是什么？",
+        "answer": "1. 里昂·沃斯是作者在世界上最好的朋友；2. 这个大人能理解一切，包括关于儿童的书；3. 他住在法国，又饿又冷，需要振作精神。"
+      },
+      {
+        "question": "这本书有多少章？",
+        "answer": "这本书共有27章。"
+      },
+      {
+        "question": "叙述者六岁时看到的图画来自哪本书？",
+        "answer": "叙述者六岁时看到的图画来自《自然界的真实故事》（True Stories from Nature）。"
+      },
+      {
+        "question": "叙述者对大人们的普遍看法是什么？",
+        "answer": "叙述者认为大人们从来不会自己理解任何事情，总是需要孩子们给他们解释，这很令人厌烦。"
+      },
+      {
+        "question": "What did the narrator show to people to test their understanding?",
+        "answer": "The narrator showed them Drawing Number One, which depicted a hat."
+      },
+      {
+        "question": "How did people usually react to the narrator's Drawing Number One?",
+        "answer": "They would say, \"That is a hat.\""
+      },
+      {
+        "question": "Where did the narrator crash his plane?",
+        "answer": "In the Desert of Sahara."
+      },
+      {
+        "question": "What was the first thing the little prince asked the narrator to do?",
+        "answer": "He asked the narrator to draw him a sheep."
+      },
+      {
+        "question": "Why did the little prince reject the narrator's first drawing of a sheep?",
+        "answer": "Because it was an elephant inside a boa constrictor, not a sheep."
+      },
+      {
+        "question": "How did the narrator finally satisfy the little prince's request for a sheep?",
+        "answer": "He drew a box and said the sheep was inside it."
+      },
+      {
+        "question": "What did the little prince think was funny about the narrator?",
+        "answer": "That the narrator had dropped down from the sky."
+      },
+      {
+        "question": "What did the narrator speculate about the little prince's origin?",
+        "answer": "He believed the little prince came from Asteroid B-612."
+      },
+      {
+        "question": "Why did the little prince not want the sheep tied up?",
+        "answer": "Because where he lived, everything was so small that the sheep couldn't go far."
+      },
+      {
+        "question": "What was the second important fact the narrator learned about the little prince's planet?",
+        "answer": "It was scarcely any larger than a house."
+      },
+      {
+        "question": "为什么天文学家不给小行星命名，而是用数字编号？",
+        "answer": "因为有些小行星非常小，用望远镜都很难看到，所以天文学家发现它们时只给一个数字编号而不命名。"
+      },
+      {
+        "question": "小王子来自哪个小行星？",
+        "answer": "小王子来自编号为B-612的小行星。"
+      },
+      {
+        "question": "土耳其天文学家在1909年发现B-612小行星时遇到了什么问题？",
+        "answer": "因为他穿着土耳其传统服装，所以没有人相信他的发现。"
+      },
+      {
+        "question": "为什么1920年人们接受了土耳其天文学家的报告？",
+        "answer": "因为土耳其独裁者颁布法律要求民众改穿欧式服装，天文学家穿着优雅的欧式服装重新演示后，人们接受了他的报告。"
+      },
+      {
+        "question": "作者认为大人们关心什么问题？",
+        "answer": "大人们关心数字，比如年龄、兄弟数量、体重、父亲收入等，而不关心本质问题。"
+      },
+      {
+        "question": "作者为什么提到画画的困难？",
+        "answer": "因为作者想通过画画来记录小王子的形象，但多年不画画导致技巧生疏，担心画得不够准确。"
+      },
+      {
+        "question": "小王子为什么关心羊吃小灌木的问题？",
+        "answer": "因为如果羊吃小灌木，它们也会吃小猴面包树，而猴面包树在小王子的星球上是一种危险的植物，必须及时清除。"
+      },
+      {
+        "question": "猴面包树对小王子的星球有什么危害？",
+        "answer": "猴面包树会蔓延整个星球，根系穿透星球，如果星球太小而猴面包树太多，它们会把星球撑裂。"
+      },
+      {
+        "question": "小王子建议作者画什么？为什么？",
+        "answer": "小王子建议作者画一幅猴面包树的图，以便地球上的孩子们了解它的危害，这对他们未来旅行时会有帮助。"
+      },
+      {
+        "question": "作者写这本书的主要目的是什么？",
+        "answer": "作者写这本书是为了不忘记小王子，避免变得像只关心数字的大人那样。"
+      },
+      {
+        "question": "为什么小王子认为画一幅关于猴面包树的画对孩子们很有用？",
+        "answer": "因为这样孩子们可以清楚地了解猴面包树的危险，这对他们未来可能的旅行很有帮助。"
+      },
+      {
+        "question": "小王子说他有一天看了多少次日落？",
+        "answer": "44次。"
+      },
+      {
+        "question": "小王子为什么喜欢看日落？",
+        "answer": "因为当他感到悲伤时，看日落能给他带来安慰。"
+      },
+      {
+        "question": "小王子对花的刺有什么疑问？",
+        "answer": "他想知道如果羊会吃花，那么花的刺有什么用。"
+      },
+      {
+        "question": "叙述者最初是如何回答关于花刺的问题的？",
+        "answer": "他随口回答说花的刺毫无用处，花长刺只是为了表现恶意。"
+      },
+      {
+        "question": "小王子如何看待叙述者说自己在忙重要的事情？",
+        "answer": "他认为叙述者说话像大人一样，混淆了真正重要的事情。"
+      },
+      {
+        "question": "小王子为什么对叙述者感到愤怒？",
+        "answer": "因为叙述者没有认真对待他关于花和羊的问题，而他认为这才是真正重要的事情。"
+      },
+      {
+        "question": "小王子描述的那个红脸先生是什么样的？",
+        "answer": "他从未闻过花香、看过星星或爱过任何人，一生只忙于计算数字，并总是说自己忙于重要的事情。"
+      },
+      {
+        "question": "小王子认为花为什么要费劲长刺？",
+        "answer": "他认为花是脆弱的生物，长刺是为了自我保护，尽管刺可能实际上并不能保护它们。"
+      },
+      {
+        "question": "叙述者最后是如何安慰小王子的？",
+        "answer": "他答应给小王子画一个口罩给羊戴上，并画一个栏杆保护花。"
+      },
+      {
+        "question": "小王子星球上的花最初是什么样子的？",
+        "answer": "小王子星球上的花最初非常简单，只有一圈花瓣，不占空间，也不麻烦任何人。它们早上出现在草地上，晚上就安静地凋谢。"
+      },
+      {
+        "question": "新出现的花与小王子星球上其他花有什么不同？",
+        "answer": "新出现的花不像其他花那样简单，它精心挑选颜色，调整花瓣，不愿像野罂粟那样凌乱地出现在世界上，而是希望在展现自己美丽的时候光彩照人。"
+      },
+      {
+        "question": "花是如何展现自己的虚荣心的？",
+        "answer": "花通过谈论自己的四根刺来展现虚荣心，例如她说让老虎带着爪子来吧，尽管小王子告诉她星球上没有老虎。她还表示害怕穿堂风，要求小王子为她准备屏风。"
+      },
+      {
+        "question": "小王子为什么对花产生怀疑？",
+        "answer": "小王子因为花的虚荣心和谎言开始怀疑她。例如，花说自己来自别的地方，但实际上她是以种子形式来到星球的，不可能知道其他世界。"
+      },
+      {
+        "question": "小王子离开星球前做了哪些准备？",
+        "answer": "小王子清理了他的两座活火山和一座死火山，拔掉了最后的猴面包树幼苗，最后一次给花浇水，并准备将她放在玻璃罩下保护。"
+      },
+      {
+        "question": "花在小王子离开时说了什么？",
+        "answer": "花承认自己愚蠢，请求小王子的原谅，并告诉他试着快乐。她还表示不需要玻璃罩了，愿意忍受几只毛毛虫以便认识蝴蝶，并展示了自己的四根刺。"
+      },
+      {
+        "question": "小王子访问的第一个小行星上住着谁？",
+        "answer": "小王子访问的第一个小行星上住着一位国王，他穿着紫色貂皮长袍，坐在简单而庄严的宝座上。"
+      },
+      {
+        "question": "国王是如何对待小王子的？",
+        "answer": "国王将小王子视为臣民，命令他走近以便更好地看他，并因为终于能统治某人而感到无比自豪。"
+      },
+      {
+        "question": "为什么国王能够认出他从未见过的小王子？",
+        "answer": "因为对国王来说，世界被简化为所有男人都是他的臣民。"
+      },
+      {
+        "question": "国王为什么命令小王子打哈欠？",
+        "answer": "因为国王多年未见人打哈欠，觉得哈欠是好奇的对象。"
+      },
+      {
+        "question": "国王认为他的权威建立在什么基础上？",
+        "answer": "国王认为他的权威建立在理性基础上，他的命令都是合理的。"
+      },
+      {
+        "question": "小王子请求国王做什么？",
+        "answer": "小王子请求国王命令太阳落山，让他看日落。"
+      },
+      {
+        "question": "国王为什么不能立即命令太阳落山？",
+        "answer": "国王根据他的统治科学，要等到条件有利时才会下令，预计在晚上7:40左右。"
+      },
+      {
+        "question": "国王提议任命小王子为什么职位？",
+        "answer": "国王提议任命小王子为司法部长。"
+      },
+      {
+        "question": "国王认为最难的事情是什么？",
+        "answer": "国王认为最难的事情是审判自己，比审判别人困难得多。"
+      },
+      {
+        "question": "第二个星球上住着什么样的人？",
+        "answer": "第二个星球上住着一个自负的人。"
+      },
+      {
+        "question": "自负的人戴的帽子有什么特殊用途？",
+        "answer": "那顶帽子是用来在人们称赞他时举帽致意的。"
+      },
+      {
+        "question": "自负的人对小王子提出的要求是什么？",
+        "answer": "自负的人要求小王子鼓掌，这样他就可以举帽致意。"
+      },
+      {
+        "question": "小王子对自负的人做了什么让他感到厌倦？",
+        "answer": "小王子反复拍手让自负的人举帽致意，持续五分钟后对这个游戏的单调感到厌倦。"
+      },
+      {
+        "question": "自负的人希望小王子如何对待他？",
+        "answer": "自负的人希望小王子钦佩他，认为他是这个星球上最英俊、穿着最好、最富有和最聪明的人。"
+      },
+      {
+        "question": "小王子为什么觉得酒鬼很可悲？",
+        "answer": "因为酒鬼喝酒是为了忘记自己因喝酒而感到羞愧，这种自我矛盾的行为让小王子感到可悲。"
+      },
+      {
+        "question": "商人声称拥有多少颗星星？",
+        "answer": "商人声称拥有五亿零一百六十二万二千七百三十一颗星星。"
+      },
+      {
+        "question": "商人认为拥有星星对他有什么好处？",
+        "answer": "商人认为拥有星星能让他变得富有，从而可以购买更多新发现的星星。"
+      },
+      {
+        "question": "小王子如何评价点灯人的工作？",
+        "answer": "小王子认为点灯人的工作是有意义的，因为点亮路灯就像唤醒一颗星星或一朵花，熄灭路灯则像是让它们入睡，这种工作是美丽且真正有用的。"
+      },
+      {
+        "question": "小王子对点灯人的评价与其他成年人有何不同？",
+        "answer": "小王子认为点灯人虽然行为看似荒谬，但比其他成年人（国王、自负的人、商人和酒鬼）更有意义，因为他的工作实际上创造了美和价值。"
+      },
+      {
+        "question": "为什么小王子觉得点灯人的工作是有意义的？",
+        "answer": "因为点灯人点亮街灯时就像让一颗星星或一朵花苏醒，熄灭灯时又让它们入睡，这种工作既美丽又有意义。"
+      },
+      {
+        "question": "点灯人为什么频繁地点灯和熄灯？",
+        "answer": "因为行星自转速度加快，现在每分钟转一圈，而命令没有改变，所以他必须每分钟点灯和熄灯一次。"
+      },
+      {
+        "question": "小王子为什么喜欢点灯人？",
+        "answer": "因为点灯人是唯一一个不显得荒谬的人，他在思考点灯工作本身而非自己，且忠于职守。"
+      },
+      {
+        "question": "地理学家的工作是什么？",
+        "answer": "地理学家是记录所有海洋、河流、城镇、山脉和沙漠位置的学者，但他不亲自探索，而是通过询问探险家获取信息。"
+      },
+      {
+        "question": "为什么地理学家不记录花朵？",
+        "answer": "因为花朵是短暂的（ephemeral），而地理学只关注永恒不变的事物，如山脉和海洋。"
+      },
+      {
+        "question": "小王子对地理学家的星球有什么看法？",
+        "answer": "他认为这是迄今为止见过的最宏伟壮丽的星球，但发现地理学家对其上的地理特征一无所知时感到失望。"
+      },
+      {
+        "question": "What does 'ephemeral' mean in the context of the little prince's flower?",
+        "answer": "It means 'which is in danger of speedy disappearance.'"
+      },
+      {
+        "question": "Why did the little prince feel regret about his flower?",
+        "answer": "Because he realized his flower is ephemeral and has only four thorns to defend herself, and he left her alone on his planet."
+      },
+      {
+        "question": "What planet did the geographer advise the little prince to visit next?",
+        "answer": "The planet Earth."
+      },
+      {
+        "question": "How many lamplighters were needed for the street lamps on Earth before the invention of electricity?",
+        "answer": "462,511 lamplighters."
+      },
+      {
+        "question": "What was unique about the lamplighters at the North and South Poles?",
+        "answer": "They would be busy only twice a year and live free from toil and care."
+      },
+      {
+        "question": "How does the narrator describe the space all humanity would occupy if crowded together?",
+        "answer": "They could easily be put into one public square twenty miles long and twenty miles wide, or piled up on a small Pacific islet."
+      },
+      {
+        "question": "What was the little prince's reaction upon arriving on Earth and not seeing any people?",
+        "answer": "He was very much surprised and began to fear he had come to the wrong planet."
+      },
+      {
+        "question": "What did the snake claim to be able to do for the little prince?",
+        "answer": "The snake claimed it could help the little prince if he grew too homesick for his own planet, by sending him back to where he came from."
+      },
+      {
+        "question": "How did the flower describe men to the little prince?",
+        "answer": "The flower said men have no roots, which makes their life very difficult, and the wind blows them away."
+      },
+      {
+        "question": "What did the little prince discover after climbing a high mountain on Earth?",
+        "answer": "He saw nothing but sharp peaks of rock and heard his own echo, making him think the planet was dry, pointed, harsh, and that the people had no imagination."
+      },
+      {
+        "question": "What did the little prince find after walking through sand, rocks, and snow?",
+        "answer": "He came upon a road leading to a garden full of blooming roses."
+      },
+      {
+        "question": "小王子在花园里发现了什么？",
+        "answer": "小王子在花园里发现了五千朵和他自己星球上的花长得一模一样的玫瑰。"
+      },
+      {
+        "question": "为什么小王子感到悲伤？",
+        "answer": "小王子感到悲伤是因为他的花曾告诉他，她是全宇宙中独一无二的，但现在他发现花园里有五千朵和她一样的玫瑰。"
+      },
+      {
+        "question": "狐狸对小王子提出的第一个请求是什么？",
+        "answer": "狐狸对小王子提出的第一个请求是'请驯服我吧！'"
+      },
+      {
+        "question": "根据狐狸的说法，驯服是什么意思？",
+        "answer": "狐狸说驯服的意思是'建立联系'，使彼此在对方眼中变得独一无二。"
+      },
+      {
+        "question": "狐狸说驯服需要什么条件？",
+        "answer": "狐狸说驯服需要非常耐心，开始时要在一定距离外坐着，然后每天靠近一点，同时要保持固定的时间。"
+      },
+      {
+        "question": "为什么狐狸说周四对他来说是个特别的日子？",
+        "answer": "因为猎人们每周四都会和村里的姑娘们跳舞，这样狐狸就知道周四可以安全地散步到葡萄园。"
+      },
+      {
+        "question": "离别时狐狸给了小王子什么建议？",
+        "answer": "狐狸建议小王子再去看看那些玫瑰，然后回来和他道别，他会送给小王子一个秘密作为礼物。"
+      },
+      {
+        "question": "小王子对玫瑰们说了什么？",
+        "answer": "小王子对玫瑰们说它们虽然美丽但是空虚，没有人会为它们而死，它们不像他的玫瑰那样独一无二，因为他的玫瑰被他驯服了。"
+      },
+      {
+        "question": "狐狸说驯服给他带来了什么好处？",
+        "answer": "狐狸说驯服给他带来了好处，因为现在金色的麦田会让他想起小王子金黄色的头发。"
+      },
+      {
+        "question": "小王子为什么说他的玫瑰比其他的玫瑰更重要？",
+        "answer": "因为小王子为他的玫瑰付出了时间和精力，包括浇水、放在玻璃罩下、用屏风保护、除虫以及倾听她的抱怨或沉默。正是这些付出使得他的玫瑰独一无二。"
+      },
+      {
+        "question": "狐狸告诉小王子的秘密是什么？",
+        "answer": "狐狸的秘密是：只有用心才能看清事物的本质，真正重要的东西用眼睛是看不见的。"
+      },
+      {
+        "question": "小王子与铁路扳道工的对话揭示了人们怎样的生活状态？",
+        "answer": "铁路扳道工说人们总是在匆忙中奔波，但连火车司机都不知道他们在寻找什么。这揭示了人们盲目追求、永不满足的生活状态。"
+      },
+      {
+        "question": "商人卖的止渴药丸有什么作用？小王子对此的看法是什么？",
+        "answer": "止渴药丸每周服用一粒就能让人不感到口渴，可以节省时间。小王子认为如果有53分钟空闲时间，他宁愿悠闲地走向一口清泉。"
+      },
+      {
+        "question": "在沙漠中，小王子认为沙漠美丽的原因是什么？",
+        "answer": "小王子认为沙漠之所以美丽，是因为在某个地方藏着一口井，这种看不见的可能性赋予了沙漠魅力。"
+      },
+      {
+        "question": "叙述者为什么觉得小王子非常脆弱？",
+        "answer": "叙述者看到小王子对玫瑰的忠诚，这种情感像一盏灯的火焰贯穿他的整个存在，即使在睡梦中也闪耀着。这种纯粹而深刻的感情联系让他显得格外脆弱。"
+      },
+      {
+        "question": "What did the narrator feel when looking at the sleeping little prince?",
+        "answer": "The narrator felt that the little prince was fragile and needed protection, like a flame that might be extinguished by a little puff of wind."
+      },
+      {
+        "question": "What did the little prince say about men and their search?",
+        "answer": "The little prince said that men set out on their way in express trains but do not know what they are looking for, rushing about and getting excited, and concluded that it is not worth the trouble."
+      },
+      {
+        "question": "How was the well they found different from the wells of the Sahara?",
+        "answer": "The well they found was like a village well with a pulley, bucket, and rope, unlike the wells of the Sahara which are mere holes dug in the sand."
+      },
+      {
+        "question": "What did the little prince compare the pulley's sound to?",
+        "answer": "The little prince compared the pulley's sound to an old weathervane which the wind has long since forgotten, saying the well was singing."
+      },
+      {
+        "question": "Why did the water taste sweet to the little prince?",
+        "answer": "The water tasted sweet because its sweetness was born of the walk under the stars, the song of the pulley, and the effort of the narrator's arms, making it good for the heart like a present."
+      },
+      {
+        "question": "What did the little prince say about what men are looking for in their gardens?",
+        "answer": "The little prince said that men raise five thousand roses in the same garden but do not find what they are looking for, which could be found in one single rose or a little water."
+      },
+      {
+        "question": "What must one do to truly see, according to the little prince?",
+        "answer": "The little prince said that the eyes are blind and one must look with the heart."
+      },
+      {
+        "question": "What promise did the little prince remind the narrator of?",
+        "answer": "The little prince reminded the narrator of his promise to draw a muzzle for his sheep, as he is responsible for his flower."
+      },
+      {
+        "question": "What did the little prince reveal about the anniversary?",
+        "answer": "The little prince revealed that the next day would be the anniversary of his descent to Earth, implying that his meeting with the narrator was not by chance."
+      },
+      {
+        "question": "What happened when the narrator returned to the well the next evening?",
+        "answer": "The narrator saw the little prince talking to a yellow snake, which he later learned was part of the prince's plan to return to his planet, causing the narrator great sorrow."
+      },
+      {
+        "question": "How did the little prince describe his return home?",
+        "answer": "The little prince said his return home would be much farther and more difficult, indicating it would involve his death on Earth to return to his planet."
+      },
+      {
+        "question": "小王子说他今晚会怎样？",
+        "answer": "小王子说他今晚会看起来像是在受苦，甚至像是在死去。"
+      },
+      {
+        "question": "小王子为什么不让叙述者跟着他？",
+        "answer": "因为小王子不想让叙述者看到他看起来像是在受苦或死去的样子，而且担心蛇可能会咬叙述者。"
+      },
+      {
+        "question": "小王子给叙述者留下了什么礼物？",
+        "answer": "小王子留给叙述者的礼物是他的笑声，这会让叙述者在看星星时感觉所有的星星都在笑。"
+      },
+      {
+        "question": "叙述者为什么担心小王子星球上的花？",
+        "answer": "因为叙述者忘记给绵羊的口罩画上皮带，担心绵羊可能会吃掉小王子的花。"
+      },
+      {
+        "question": "小王子离开时的情景是怎样的？",
+        "answer": "小王子离开时轻轻倒下，没有发出声音，就像一棵树轻轻倒下一样。"
+      },
+      {
+        "question": "叙述者如何安慰自己关于小王子离开的想法？",
+        "answer": "叙述者认为小王子回到了他的星球，因为天亮时没有找到他的身体，而且晚上听星星的声音就像五亿个小铃铛在笑。"
+      },
+      {
+        "question": "为什么小王子说“重要的东西是看不见的”？",
+        "answer": "小王子认为真正重要的东西，如爱和友谊，是肉眼看不见的，只能用心去感受。"
+      },
+      {
+        "question": "小王子对他的花有什么责任？",
+        "answer": "小王子觉得他对他的花负有责任，因为花很脆弱，只有四根无用的刺来保护自己。"
+      },
+      {
+        "question": "文本中提到的'小王子'出现在地球上的哪个地方？",
+        "answer": "非洲沙漠"
+      },
+      {
+        "question": "如果遇到小王子，他会有哪些特征？",
+        "answer": "会笑、有金色头发、拒绝回答问题"
+      },
+      {
+        "question": "作者请求读者如果遇到小王子要做什么？",
+        "answer": "给他捎个信，告诉他小王子回来了"
+      },
+      {
+        "question": "为什么作者说这是一个既美好又悲伤的风景？",
+        "answer": "因为这是小王子在地球上出现又消失的地方"
+      },
+      {
+        "question": "文本中提到的关于羊和玫瑰的问题说明了什么？",
+        "answer": "说明成年人往往不理解这些看似简单的事情的重要性"
+      },
+      {
+        "question": "如果你在非洲沙漠中遇到一个特定的地点，应该怎么做？",
+        "answer": "不要匆忙离开，在星星正下方等待一段时间。"
+      },
+      {
+        "question": "描述中提到的那个小男人有什么特征？",
+        "answer": "他会笑，有金色的头发，并且拒绝回答问题。"
+      },
+      {
+        "question": "如果你遇到这个小男人，应该怎么做？",
+        "answer": "请安慰作者，并通知他这个小男人已经回来了。"
+      },
+      {
+        "question": "这段文字的主要情感是什么？",
+        "answer": "期待与思念，希望有人能带来关于那个小男人的消息。"
+      },
+      {
+        "question": "如果遇到这个地点，应该怎么做？",
+        "answer": "不要匆忙离开，在星星正下方等待一段时间。"
+      },
+      {
+        "question": "描述中提到的那个小人有什么特征？",
+        "answer": "他会笑，有金色的头发，并且拒绝回答问题。"
+      },
+      {
+        "question": "如果遇到这个小人的话，应该做什么？",
+        "answer": "请安慰说话者，并告知他们小人已经回来了。"
+      },
+      {
+        "question": "这段话的主要请求是什么？",
+        "answer": "请求如果遇到描述中的小人，通知说话者他回来了。"
+      },
+      {
+        "question": "在什么情况下可以确认小人的身份？",
+        "answer": "当出现一个笑着的、金发且拒绝回答问题的小人时，就能知道他是谁。"
+      },
+      {
+        "question": "描述一下可能出现的小人特征？",
+        "answer": "他会笑，有金色的头发，并且拒绝回答问题。"
+      },
+      {
+        "question": "如果遇到这个小人物，应该通知谁？",
+        "answer": "请通知我（说话者），让我知道他回来了。"
+      },
+      {
+        "question": "为什么要等待在星星正下方？",
+        "answer": "这样如果那个小人物出现，你就能认出他是谁。"
+      },
+      {
+        "question": "文本中反复出现的请求是什么？",
+        "answer": "如果小人物出现，请安慰我并通知我他回来了。"
+      },
+      {
+        "question": "What should you do if a little man appears under the star?",
+        "answer": "Wait for a time exactly under the star, and if a little man appears who laughs, has golden hair, and refuses to answer questions, you will know who he is."
+      },
+      {
+        "question": "How can you identify the little man?",
+        "answer": "The little man can be identified by his laughter, golden hair, and refusal to answer questions."
+      },
+      {
+        "question": "What should you do if the little man appears?",
+        "answer": "Comfort the person who asked you to wait and send them word that the little man has come back."
+      },
+      {
+        "question": "Where should you wait to see the little man?",
+        "answer": "You should wait exactly under the star."
+      },
+      {
+        "question": "What are the characteristics of the little man?",
+        "answer": "The little man laughs, has golden hair, and refuses to answer questions."
+      },
+      {
+        "question": "在什么情况下你会知道那个小人是谁？",
+        "answer": "如果在星星下等待一段时间后，出现一个笑着、有金色头发且拒绝回答问题的小人，就会知道他是谁。"
+      },
+      {
+        "question": "如果那个小人出现了，应该怎么做？",
+        "answer": "应该安慰说话者，并通知他那个小人已经回来了。"
+      },
+      {
+        "question": "小人有哪些特征？",
+        "answer": "小人会笑，有金色的头发，并且拒绝回答问题。"
+      },
+      {
+        "question": "应该在什么地方等待小人出现？",
+        "answer": "应该正好在星星下面等待。"
+      },
+      {
+        "question": "如果出现一个笑着、金发且拒绝回答问题的小人，应该怎么做？",
+        "answer": "请安慰我，并告诉我他已经回来了。"
+      },
+      {
+        "question": "什么样的小人出现时能确认他的身份？",
+        "answer": "一个笑着、有金色头发且拒绝回答问题的小人。"
+      },
+      {
+        "question": "这段文字反复出现的核心内容是什么？",
+        "answer": "关于在星星下出现一个特定特征的小人时，希望得到他回来的消息。"
+      },
+      {
+        "question": "文字中提到的地点在哪里？",
+        "answer": "在星星的正下方（exactly under the star）。"
+      },
+      {
+        "question": "文字通过何种方式强调内容？",
+        "answer": "通过逐行减少首字母的方式反复呈现核心内容。"
+      },
+      {
+        "question": "当出现什么样的小人时，你会知道他是谁？",
+        "answer": "当出现一个会笑、有金色头发且拒绝回答问题的小人时，你会知道他是谁。"
+      },
+      {
+        "question": "如果这个小人出现了，作者希望你做什么？",
+        "answer": "如果这个小人出现了，作者希望你安慰他，并通知他小人已经回来了。"
+      },
+      {
+        "question": "这个小人有什么特征？",
+        "answer": "这个小人会笑，有金色的头发，并且拒绝回答问题。"
+      },
+      {
+        "question": "作者为什么希望你通知他？",
+        "answer": "作者希望确认这个特别的小人是否已经回来，因此需要你通知他。"
+      },
+      {
+        "question": "描述中出现的小人有什么特征？",
+        "answer": "小人会笑，有金色头发，且拒绝回答问题"
+      },
+      {
+        "question": "如果遇到这样的小人应该怎么做？",
+        "answer": "请安慰我，并通知我他回来了"
+      },
+      {
+        "question": "通过什么特征可以确认小人的身份？",
+        "answer": "通过他会笑、有金色头发且拒绝回答问题的特征"
+      },
+      {
+        "question": "文本中重复出现的请求是什么？",
+        "answer": "请求在遇到这样的小人时给予安慰并通知他回来了"
+      },
+      {
+        "question": "如何识别文中所描述的那个人？",
+        "answer": "通过三个特征识别：爱笑、有金色头发、拒绝回答问题"
+      },
+      {
+        "question": "如果遇到这个人应该怎么做？",
+        "answer": "请安慰我（说话者），并告知我这个人已经回来的消息"
+      },
+      {
+        "question": "文中描述的人最显著的外貌特征是什么？",
+        "answer": "拥有金色的头发"
+      },
+      {
+        "question": "这个人的行为特点是什么？",
+        "answer": "爱笑但拒绝回答任何问题"
+      },
+      {
+        "question": "如何识别特定的人？",
+        "answer": "通过其拒绝回答问题这一特征可以识别"
+      },
+      {
+        "question": "文本中描述的人有什么特征？",
+        "answer": "拒绝回答问题"
+      },
+      {
+        "question": "文本中提到的请求是什么？",
+        "answer": "当某人回来时，希望得到安慰和通知。"
+      },
+      {
+        "question": "文本中重复出现的关键信息是什么？",
+        "answer": "如果这件事发生，请安慰我，并通知我他已经回来了。"
+      },
+      {
+        "question": "文本的主要目的是什么？",
+        "answer": "表达对某人回来的期待和希望得到安慰与通知的请求。"
+      },
+      {
+        "question": "文本中重复的请求内容是什么？",
+        "answer": "请求内容是：'who he is. If this should happen, please comfort me. Send me word that he has come back.'"
+      },
+      {
+        "question": "这段文本是否包含可提取的知识点？",
+        "answer": "不包含，这完全是由重复符号组成的无意义文本"
+      },
+      {
+        "question": "为什么无法从这段文本生成问答对？",
+        "answer": "因为文本中没有包含任何实质性内容或有效信息"
+      },
+      {
+        "question": "这段文本的主要内容是什么？",
+        "answer": "这段文本是由数字'1'和点号组成的艺术图案，没有实质性的信息内容。"
+      },
+      {
+        "question": "为什么无法从这段文本提取问答对？",
+        "answer": "因为文本缺乏语义信息和知识内容，仅包含重复的符号排列，无法形成有意义的问答。"
+      }
+    ],
+    "processed_time": "2025-06-19 08:17:55"
+  }
+]
